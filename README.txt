@@ -1,4 +1,5 @@
 mkdir store
+
 cd store
 git init
 git pull https://github.com/Lamberk/store.git
